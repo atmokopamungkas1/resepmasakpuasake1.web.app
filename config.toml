@@ -1,7 +1,6 @@
 ############### WAJIB DIGANTI ################
 
-baseURL = "https://resepmasakpuasake1.web.app
-/"        
+baseURL = "https://resepmasakpuasake1.web.app/"        
 languageCode = "id-ID"
 title = "Resep Masakan Buka Dan Sahur Pasti Enak Dan Lezat"       
 
@@ -13,9 +12,9 @@ theme = "sja-v1"
 enableRobotsTXT = "true"
 
 [params]
-  description = "Kumpulan Resep Masakan Untuk Buka Dan Sahur Wajib Dicoba pasti Lezat"  
+  description = "Kumpulan Resep Masakan Buka Dan Sahur Wajib Dicoba pasti Lezat"  
   histatsID = ""    
-  contentThemeColor = "#c678dd"    
+  contentThemeColor = "#20fdf0"    
   postPerPage = "21"                
   stepText = "Langkah ke-"
   cookieConsent = true
